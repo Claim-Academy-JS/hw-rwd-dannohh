@@ -1,0 +1,23 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 1rem;
+    color: rgb(60, 60, 59);
+}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    display: flex;
+    background: rgb(0,255,0);
+}
+
+.svg {
+    max-height: 40px;
+
+}
+
+div {
+    padding: .5rem;
+}
