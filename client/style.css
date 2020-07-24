@@ -15,9 +15,21 @@ header {
 
 .svg {
     max-height: 40px;
+    padding: 5px;
+    margin-left: 10px;
+}
 
+.searchLense {
+    margin-left:190px;
 }
 
 div {
     padding: .5rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
